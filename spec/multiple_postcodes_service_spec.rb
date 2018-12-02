@@ -10,8 +10,4 @@ describe MultiplePostcodesService do
     expect(@multiple_postcodes_service.get_status_code).to eq 200
   end
 
-  it "should have a results hash" do
-  
-  end
-
 end
